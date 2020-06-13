@@ -23,5 +23,5 @@ section_row:
   alt: 
   excerpt: jQuery plugin that creates an element which blurs elements behind it (background elements). Also provides API to created a blurred modal/mask. Requires jQuery library.
   btn_text: Get library
-  url: https://www.npmjs.com/package/bluroverlay.js
+  url: https://bluroverlay.hardikdabhi.com/
 ---
