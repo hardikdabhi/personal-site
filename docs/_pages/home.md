@@ -3,6 +3,13 @@ layout: site
 title: Home
 permalink: /
 section_row:
+- title: "EBNP"
+  sub_title: "Lose excess weight sustainably"
+  image: /assets/img/ebnp.jpg
+  alt: 
+  excerpt: Eat Better Not Perfect - web application to follow and track nutrition program for both coach and clients. Multi-lingual, MEAN stack, CI/CD build pipelines, hosted on cloud.
+  btn_text: EBNP
+  url: https://en.eatbetternotperfect.com/
 - title: "@hardpool/ngx-spinner"
   sub_title: "Customizable loading spinner for Angular"
   image: /assets/img/ngx-spinner.gif
